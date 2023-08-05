@@ -34,7 +34,7 @@ print(round(d,2))
 
 
 ### OUTPUT:
-![ouput](/Screenshot%20(6).png)
+![ouput](/malli.png)
 
 
 ### RESULT:
