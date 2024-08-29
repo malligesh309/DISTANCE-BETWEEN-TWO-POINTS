@@ -14,9 +14,7 @@ Assign the values of the coordinates in the formula
 ### Step 5: 
 End the program 
 ### PROGRAM:
-#Program to find the distance between two points.
-#Developed by:Malligesh M 
-#RegisterNumber:23002936
+
 
 ``` 
 import math
@@ -34,7 +32,8 @@ print(round(d,2))
 
 
 ### OUTPUT:
-![ouput](/malli.png)
+![image](https://github.com/user-attachments/assets/5ff1d0f9-e3aa-4c09-a3cd-7e82428dd930)
+
 
 
 ### RESULT:
